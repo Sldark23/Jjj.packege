@@ -5,3 +5,8 @@
 ```
 npm i jjjpackege
 ```
+# ou
+
+```
+npm install jjjpackege
+```
